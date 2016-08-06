@@ -1,0 +1,28 @@
+_repo: Rhymes-of-a-Roughneck_10515
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cotter, Frank J.
+    alias: O'Cotter, Pat
+    gutenberg_agent_id: '3568'
+    url: http://www.gutenberg.org/2009/agents/3568
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Alaska -- Poetry'
+- GITenberg
+tableOfContents: The birth of the land -- A woman, a dog, and a walnut tree -- When
+  the water starts to run -- The throwback -- The malamute -- Unsatisfied -- The prospector
+  -- If -- Us for Sam -- How long? -- That 30 U.S. on the wall -- Flotsam -- Trying
+  -- The new master -- Prospecting -- The woman that you pass by -- Why -- And still
+  I like Alaska.
+title: Rhymes of a Roughneck
+url: http://www.gutenberg.org/ebooks/10515
